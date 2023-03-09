@@ -40,13 +40,6 @@ nav a:hover {
     color: #e5ddc8;
 }
 
-div {
-    background: url(" jakes-meals.jpg")
-   no-repeat 750px;
-    width: 750px;
-    border: 2px solid #193e2e;
-  }
-
 article {
     padding: 1rem;
 }
